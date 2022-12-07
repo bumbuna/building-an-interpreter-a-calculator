@@ -1,0 +1,4 @@
+/home/bumbuna/Developer/building-an-interpreter-a-repl-calculator/build/CMakeFiles/calculator.dir
+/home/bumbuna/Developer/building-an-interpreter-a-repl-calculator/build/CMakeFiles/test.dir
+/home/bumbuna/Developer/building-an-interpreter-a-repl-calculator/build/CMakeFiles/edit_cache.dir
+/home/bumbuna/Developer/building-an-interpreter-a-repl-calculator/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,5 @@
+# ninja log v5
+0	111	1670387424307737577	CMakeFiles/repl_calculator.dir/repl_calculator.c.o	e883449f8ebc7655
+111	152	1670387424347737575	repl_calculator	787428a5b301ed0a
+0	85	1670389215971748599	CMakeFiles/calculator.dir/calculator.c.o	5147b90dd57fbf22
+85	154	1670389216039799460	calculator	c946d70581eb98e2

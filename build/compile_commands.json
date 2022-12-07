@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/bumbuna/Developer/building-an-interpreter-a-repl-calculator/build",
+  "command": "/usr/bin/cc -g -o CMakeFiles/calculator.dir/calculator.c.o -c /home/bumbuna/Developer/building-an-interpreter-a-repl-calculator/calculator.c",
+  "file": "/home/bumbuna/Developer/building-an-interpreter-a-repl-calculator/calculator.c"
+}
+]

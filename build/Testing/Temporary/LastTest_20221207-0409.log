@@ -1,0 +1,159 @@
+Start testing: Dec 07 08:00 EAT
+----------------------------------------------------------
+3/9 Testing: test_3
+3/9 Test: test_3
+Command: "/home/bumbuna/Developer/building-an-interpreter-a-repl-calculator/build/calculator" "test_file_3"
+Directory: /home/bumbuna/Developer/building-an-interpreter-a-repl-calculator/build
+"test_3" start time: Dec 07 08:00 EAT
+Output:
+----------------------------------------------------------
+[1;32m71[0m.
+[1;32m36[0m.
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test_3" end time: Dec 07 08:00 EAT
+"test_3" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/9 Testing: test_6
+6/9 Test: test_6
+Command: "/home/bumbuna/Developer/building-an-interpreter-a-repl-calculator/build/calculator" "test_file_6"
+Directory: /home/bumbuna/Developer/building-an-interpreter-a-repl-calculator/build
+"test_6" start time: Dec 07 08:00 EAT
+Output:
+----------------------------------------------------------
+[1;32m1[0m.
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test_6" end time: Dec 07 08:00 EAT
+"test_6" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/9 Testing: test_4
+4/9 Test: test_4
+Command: "/home/bumbuna/Developer/building-an-interpreter-a-repl-calculator/build/calculator" "test_file_4"
+Directory: /home/bumbuna/Developer/building-an-interpreter-a-repl-calculator/build
+"test_4" start time: Dec 07 08:00 EAT
+Output:
+----------------------------------------------------------
+[1;31mSyntaxError: Expected end of expression near 5.[0m
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test_4" end time: Dec 07 08:00 EAT
+"test_4" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/9 Testing: test_9
+9/9 Test: test_9
+Command: "/home/bumbuna/Developer/building-an-interpreter-a-repl-calculator/build/calculator" "test_file_9"
+Directory: /home/bumbuna/Developer/building-an-interpreter-a-repl-calculator/build
+"test_9" start time: Dec 07 08:00 EAT
+Output:
+----------------------------------------------------------
+[1;31mRuntimeError: Division by Zero[0m.
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test_9" end time: Dec 07 08:00 EAT
+"test_9" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/9 Testing: test_7
+7/9 Test: test_7
+Command: "/home/bumbuna/Developer/building-an-interpreter-a-repl-calculator/build/calculator" "test_file_7"
+Directory: /home/bumbuna/Developer/building-an-interpreter-a-repl-calculator/build
+"test_7" start time: Dec 07 08:00 EAT
+Output:
+----------------------------------------------------------
+[1;32m8[0m.
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test_7" end time: Dec 07 08:00 EAT
+"test_7" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/9 Testing: test_2
+2/9 Test: test_2
+Command: "/home/bumbuna/Developer/building-an-interpreter-a-repl-calculator/build/calculator" "test_file_2"
+Directory: /home/bumbuna/Developer/building-an-interpreter-a-repl-calculator/build
+"test_2" start time: Dec 07 08:00 EAT
+Output:
+----------------------------------------------------------
+[1;31mSyntaxError: Expected end of expression near ).[0m
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test_2" end time: Dec 07 08:00 EAT
+"test_2" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/9 Testing: test_8
+8/9 Test: test_8
+Command: "/home/bumbuna/Developer/building-an-interpreter-a-repl-calculator/build/calculator" "test_file_8"
+Directory: /home/bumbuna/Developer/building-an-interpreter-a-repl-calculator/build
+"test_8" start time: Dec 07 08:00 EAT
+Output:
+----------------------------------------------------------
+Unexpected character.
+	1+2[1;31m=[0m3
+	~~~^~~
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test_8" end time: Dec 07 08:00 EAT
+"test_8" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/9 Testing: test_5
+5/9 Test: test_5
+Command: "/home/bumbuna/Developer/building-an-interpreter-a-repl-calculator/build/calculator" "test_file_5"
+Directory: /home/bumbuna/Developer/building-an-interpreter-a-repl-calculator/build
+"test_5" start time: Dec 07 08:00 EAT
+Output:
+----------------------------------------------------------
+[1;31mSyntaxError: Expected an integer or '(' near +.[0m
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test_5" end time: Dec 07 08:00 EAT
+"test_5" time elapsed: 00:00:00
+----------------------------------------------------------
+
+1/9 Testing: test_1
+1/9 Test: test_1
+Command: "/home/bumbuna/Developer/building-an-interpreter-a-repl-calculator/build/calculator" "test_file_1"
+Directory: /home/bumbuna/Developer/building-an-interpreter-a-repl-calculator/build
+"test_1" start time: Dec 07 08:00 EAT
+Output:
+----------------------------------------------------------
+[1;32m4[0m.
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test_1" end time: Dec 07 08:00 EAT
+"test_1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Dec 07 08:00 EAT

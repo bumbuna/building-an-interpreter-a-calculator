@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20221207-0409-Experimental"
+	Name="(empty)"
+	Generator="ctest-3.22.1"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="Linux"
+	Hostname="bumbuna"
+	OSRelease="5.15.0-53-generic"
+	OSVersion="#59-Ubuntu SMP Mon Oct 17 18:53:30 UTC 2022"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="78"
+	ProcessorCacheSize="3072"
+	NumberOfLogicalCPU="4"
+	NumberOfPhysicalCPU="2"
+	TotalVirtualMemory="2048"
+	TotalPhysicalMemory="7797"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="2900"
+	>
+	<Testing>
+		<StartDateTime>Dec 07 08:00 EAT</StartDateTime>
+		<StartTestTime>1670389217</StartTestTime>
+		<TestList>
+			<Test>./test_3</Test>
+			<Test>./test_6</Test>
+			<Test>./test_4</Test>
+			<Test>./test_9</Test>
+			<Test>./test_7</Test>
+			<Test>./test_2</Test>
+			<Test>./test_8</Test>
+			<Test>./test_5</Test>
+			<Test>./test_1</Test>
+		</TestList>
+		<Test Status="passed">
+			<Name>test_3</Name>
+			<Path>.</Path>
+			<FullName>./test_3</FullName>
+			<FullCommandLine>/home/bumbuna/Developer/building-an-interpreter-a-repl-calculator/build/calculator "test_file_3"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.0101295</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/home/bumbuna/Developer/building-an-interpreter-a-repl-calculator/build/calculator "test_file_3"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value>[NON-XML-CHAR-0x1B][1;32m71[NON-XML-CHAR-0x1B][0m.
+[NON-XML-CHAR-0x1B][1;32m36[NON-XML-CHAR-0x1B][0m.
+
+</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<Test Status="passed">
+			<Name>test_6</Name>
+			<Path>.</Path>
+			<FullName>./test_6</FullName>
+			<FullCommandLine>/home/bumbuna/Developer/building-an-interpreter-a-repl-calculator/build/calculator "test_file_6"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.0102221</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/home/bumbuna/Developer/building-an-interpreter-a-repl-calculator/build/calculator "test_file_6"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value>[NON-XML-CHAR-0x1B][1;32m1[NON-XML-CHAR-0x1B][0m.
+
+</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<Test Status="passed">
+			<Name>test_4</Name>
+			<Path>.</Path>
+			<FullName>./test_4</FullName>
+			<FullCommandLine>/home/bumbuna/Developer/building-an-interpreter-a-repl-calculator/build/calculator "test_file_4"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="text/string" name="Exit Code">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Exit Value">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.0101768</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/home/bumbuna/Developer/building-an-interpreter-a-repl-calculator/build/calculator "test_file_4"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value>[NON-XML-CHAR-0x1B][1;31mSyntaxError: Expected end of expression near 5.[NON-XML-CHAR-0x1B][0m
+
+</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<Test Status="passed">
+			<Name>test_9</Name>
+			<Path>.</Path>
+			<FullName>./test_9</FullName>
+			<FullCommandLine>/home/bumbuna/Developer/building-an-interpreter-a-repl-calculator/build/calculator "test_file_9"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="text/string" name="Exit Code">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Exit Value">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.0106684</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/home/bumbuna/Developer/building-an-interpreter-a-repl-calculator/build/calculator "test_file_9"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value>[NON-XML-CHAR-0x1B][1;31mRuntimeError: Division by Zero[NON-XML-CHAR-0x1B][0m.
+
+</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<Test Status="passed">
+			<Name>test_7</Name>
+			<Path>.</Path>
+			<FullName>./test_7</FullName>
+			<FullCommandLine>/home/bumbuna/Developer/building-an-interpreter-a-repl-calculator/build/calculator "test_file_7"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.00988328</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/home/bumbuna/Developer/building-an-interpreter-a-repl-calculator/build/calculator "test_file_7"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value>[NON-XML-CHAR-0x1B][1;32m8[NON-XML-CHAR-0x1B][0m.
+
+</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<Test Status="passed">
+			<Name>test_2</Name>
+			<Path>.</Path>
+			<FullName>./test_2</FullName>
+			<FullCommandLine>/home/bumbuna/Developer/building-an-interpreter-a-repl-calculator/build/calculator "test_file_2"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="text/string" name="Exit Code">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Exit Value">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.00885693</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/home/bumbuna/Developer/building-an-interpreter-a-repl-calculator/build/calculator "test_file_2"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value>[NON-XML-CHAR-0x1B][1;31mSyntaxError: Expected end of expression near ).[NON-XML-CHAR-0x1B][0m
+
+</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<Test Status="passed">
+			<Name>test_8</Name>
+			<Path>.</Path>
+			<FullName>./test_8</FullName>
+			<FullCommandLine>/home/bumbuna/Developer/building-an-interpreter-a-repl-calculator/build/calculator "test_file_8"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="text/string" name="Exit Code">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Exit Value">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.00684136</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/home/bumbuna/Developer/building-an-interpreter-a-repl-calculator/build/calculator "test_file_8"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value>Unexpected character.
+	1+2[NON-XML-CHAR-0x1B][1;31m=[NON-XML-CHAR-0x1B][0m3
+	~~~^~~
+
+</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<Test Status="passed">
+			<Name>test_5</Name>
+			<Path>.</Path>
+			<FullName>./test_5</FullName>
+			<FullCommandLine>/home/bumbuna/Developer/building-an-interpreter-a-repl-calculator/build/calculator "test_file_5"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="text/string" name="Exit Code">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Exit Value">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.00539386</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/home/bumbuna/Developer/building-an-interpreter-a-repl-calculator/build/calculator "test_file_5"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value>[NON-XML-CHAR-0x1B][1;31mSyntaxError: Expected an integer or '(' near +.[NON-XML-CHAR-0x1B][0m
+
+</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<Test Status="passed">
+			<Name>test_1</Name>
+			<Path>.</Path>
+			<FullName>./test_1</FullName>
+			<FullCommandLine>/home/bumbuna/Developer/building-an-interpreter-a-repl-calculator/build/calculator "test_file_1"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.00348252</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/home/bumbuna/Developer/building-an-interpreter-a-repl-calculator/build/calculator "test_file_1"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value>[NON-XML-CHAR-0x1B][1;32m4[NON-XML-CHAR-0x1B][0m.
+
+</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<EndDateTime>Dec 07 08:00 EAT</EndDateTime>
+		<EndTestTime>1670389217</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
